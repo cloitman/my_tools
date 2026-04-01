@@ -1,7 +1,7 @@
 # my_tools
 ## Reusable data science utilities extracted from real projects.
 
-These modules are generalized versions of tools I've built and used repeatedly across coursework, research, and applications. Each function is extracted from working code and cleaned up into a portable form.
+These modules are generalized versions of tools I've built and used repeatedly across coursework, research, and applications. Each function is extracted from working code and cleaned up into a portable form. Across roles at Flow Traders and Ellington Management Group, my coding style has changed considerably and I have written many, _many_ more helpers but they are property of my previous employers. I will continue to add to these as I create more helpers.
 
 <ol>
 <li><b>numerical_methods.py</b> -- Finite difference derivatives, tridiagonal system generation, error metrics (SSQ/SA), KL divergence, and eigendecomposition recovery. <i>Used in: transition probability matrix estimation, volatility surface fitting.</i></li>
